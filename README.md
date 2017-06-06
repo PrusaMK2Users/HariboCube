@@ -18,6 +18,12 @@ There is a lot of different topics / channels on there, we welcome all with open
 
 we are not responsible for any damages / injuries that might arise from the usage of all material, including but not limited to ideas, documentation, diagrams, that you get from this github.  All precautions and safety protection should be taken and only attempt it if you are experienced in this area.
 
+## Introduction
+
+Recent rapid advancement of home brew reprap 3D printers pushed the capablity of the printers to the max.  One of the limiting factor has always been build volume and the lack of a properly designed, modular and scaleable enclosure.
+
+HariboCube is the next logical step towards an affordable fully enclosed printer that has over 350mm ^ 3 actual usable build volume and it's designed with ease of assembly and the optional enclosure walls baked in.
+
 ## Contributions
 
 If you have any contributions you want to make to this project, please submit a PR (pull request) and we will review and merge into the project
