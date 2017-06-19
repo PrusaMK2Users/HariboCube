@@ -22,7 +22,7 @@ we are not responsible for any damages / injuries that might arise from the usag
 
 Recent rapid advancement of home brew reprap 3D printers pushed the capablity of the printers to the max.  One of the limiting factor has always been build volume and the lack of a properly designed, modular and scaleable enclosure.
 
-HariboCube is the next logical step towards an affordable fully enclosed printer that has over 350mm ^ 3 actual usable build volume and it's designed with ease of assembly and the optional enclosure walls baked in.
+HariboCube is the next logical step towards an affordable fully enclosed printer that has over 420MM ^ 3 actual usable build volume and it's designed with ease of assembly and the optional enclosure walls baked in.
 
 ## Contributions
 
