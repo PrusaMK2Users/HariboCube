@@ -4,7 +4,7 @@ Below you will find the Bill of Materials for the **HariboCube** build.
 
 If you have questions about this build, feel free to submit a Github issue and we will be glad to help you.
 
-# II. Common parts
+# II. Sundry Parts
 
 ## Generic parts
 
@@ -43,12 +43,16 @@ If you have questions about this build, feel free to submit a Github issue and w
 |20|Socket Head Cap Screw M8 x 40mm|
 |tbd|Socket Head Cap Screw M3 x 12mm|
 
+# III. Linear Rails (XY)
+
 ## Igus parts
 
 |Qty|Part #|Description|
 |-----|-----|-----|
 |4|TWE-04-15|Miniature adjustable linear rail carriage|
 |4|TW-04-15 456mm|Miniature linear rail 456mm|
+
+# IV. Cube Frame Parts
 
 #### T-Sun will be able to supply these as well if you are having trouble ordering due to country regulations
 
@@ -62,17 +66,17 @@ If you have questions about this build, feel free to submit a Github issue and w
 |tbd|HNTTSN6-6|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M6 (100 pack = PACK-HNTTSN6-6|
 |4|C-30-RK-3617|Rubber Feet|
 
-# III. Open frame or Enclosed
+## Open frame or Enclosed
 
 Pick *ONE* depending on the style you want.. open or enclosed?
 
-## Open frame Misumi parts
+### Open frame Misumi parts
 
 |Qty|Part #|Description|
 |-----|-----|-----|
 |4|HFS6-3030-750-*TBD*|Clear anodize 3030 Normal Rigidity Type 750mm *TBD*|
 
-## Enclosure Misumi parts
+### Enclosure Misumi parts
 
 |Qty|Part #|Description|
 |-----|-----|-----|
