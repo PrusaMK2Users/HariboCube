@@ -30,6 +30,7 @@ If you have questions about this build, feel free to submit a Github issue and w
 |-----|-----|-----|
 |5|17HS3401|4-lead Nema17 Stepper Motor 1.3A with DuPont line, 34mm length|
 |1|LRS-350-12|Meanwell LRS-350-12 12V 29A 350W Power Supply|
+|1|tbd|32-bit Smoothieboard or Duet.. not sure yet :)|
 
 ## Fasteners
 
@@ -52,7 +53,12 @@ If you have questions about this build, feel free to submit a Github issue and w
 |4|TWE-04-15|Miniature adjustable linear rail carriage|
 |4|TW-04-15 456mm|Miniature linear rail 456mm|
 
-# IV. Cube Frame Parts
+# IV. Moving Platform (Z)
+
+|Qty|Part #|Description|
+|-----|-----|-----|
+
+# V. Cube Frame Parts
 
 #### T-Sun will be able to supply these as well if you are having trouble ordering due to country regulations
 
