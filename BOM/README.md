@@ -47,23 +47,29 @@ If you have questions about this build, feel free to submit a Github issue and w
 |4|TWE-04-15|Miniature adjustable linear rail carriage|
 |4|TW-04-15 456mm|Miniature linear rail 456mm|
 
-#### Here you will have to choose between open frame or enclosure build.. and pick the correct section below
 #### T-Sun will be able to supply these as well if you are having trouble ordering due to country regulations
 
-## Misumi parts (non enclosed)
+#### Open frame = Common Misumi parts + Open frame Misumi parts
+#### Enclosure = Common Misumi parts + Enclosure Misumi parts
+
+## Common Misumi parts
 
 |Qty|Part #|Description|
 |-----|-----|-----|
 |10|HFS6-3030-500-TPW|Clear anodize 3030 Normal Rigidity Type 500mm tap both ends|
+|1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
+|4|C-30-RK-3617|Rubber Feet|
+
+## Open frame Misumi parts
+
+|Qty|Part #|Description|
+|-----|-----|-----|
 |4|HFS6-3030-750-*TBD*|Clear anodize 3030 Normal Rigidity Type 750mm *TBD*|
-|4|C-30-RK-3617|Rubber Feet|
 
-## Misumi parts (enclosed)
+## Enclosure Misumi parts
 
 |Qty|Part #|Description|
 |-----|-----|-----|
-|10|HFS6-3030-500-TPW|Clear anodize 3030 Normal Rigidity Type 500mm tap both ends|
 |4|HFS6-6060-750-*TBD*|Clear anodize 6060 Normal Rigidity Type 750mm *TBD*|
-|4|C-30-RK-3617|Rubber Feet|
 
 
