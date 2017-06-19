@@ -55,8 +55,12 @@ If you have questions about this build, feel free to submit a Github issue and w
 
 # IV. Moving Platform (Z)
 
+MIC-6 plate is picked because of thickness tolerances is within +/-.005" (0.127mm)
+
 |Qty|Part #|Description|
 |-----|-----|-----|
+|1|MIC-6|Aluminum Cast Plate 17.5 inch x 17.5 inch x 1/4 inch|
+|4|HFS5-2020-400-*TBD*|Clear anodize 3030 Normal Rigidity Type 400mm|
 
 # V. Cube Frame Parts
 
