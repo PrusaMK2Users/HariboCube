@@ -41,6 +41,7 @@ If you have questions about this build, feel free to submit a Github issue and w
 |Qty|Description|
 |-----|-----|
 |20|Socket Head Cap Screw M8 x 40mm|
+|tbd|Socket Head Cap Screw M3 x 12mm|
 
 ## Igus parts
 
@@ -56,7 +57,9 @@ If you have questions about this build, feel free to submit a Github issue and w
 |Qty|Part #|Description|
 |-----|-----|-----|
 |10|HFS6-3030-500-TPW|Clear anodize 3030 Normal Rigidity Type 500mm tap both ends|
-|1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
+|tbd|HNTTSN6-3|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M3 (100 pack = PACK-HNTTSN6-3|
+|tbd|HNTTSN6-5|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M5 (100 pack = PACK-HNTTSN6-5|
+|tbd|HNTTSN6-6|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M6 (100 pack = PACK-HNTTSN6-6|
 |4|C-30-RK-3617|Rubber Feet|
 
 # III. Open frame or Enclosed
