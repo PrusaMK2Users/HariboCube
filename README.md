@@ -14,7 +14,7 @@ There is a lot of different topics / channels on there, we welcome all with open
 
 ## Disclaimer
 
-**you do this modification at your own risk**
+**you build this 3D printer project at your own risk**
 
 we are not responsible for any damages / injuries that might arise from the usage of all material, including but not limited to ideas, documentation, diagrams, that you get from this github.  All precautions and safety protection should be taken and only attempt it if you are experienced in this area.
 
