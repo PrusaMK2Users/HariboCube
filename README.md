@@ -1,4 +1,4 @@
-# HariboCube
+# HariboCube / Haribo420
 
 ## Unaffiliated Statement
 
