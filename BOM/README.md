@@ -32,4 +32,4 @@ If you have questions about this build, feel free to submit a Github issue and w
 |Qty|Part #|Description|
 |-----|-----|-----|
 |4|TWE-04-15|Miniature adjustable linear rail carriage|
-|4|TW-04-15 456mm|Miniature linear rail carriage 456mm|
+|4|TW-04-15 456mm|Miniature linear rail 456mm|
