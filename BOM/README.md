@@ -41,7 +41,6 @@ If you have questions about this build, feel free to submit a Github issue and w
 
 |Qty|Description|
 |-----|-----|
-|20|Socket Head Cap Screw M8 x 40mm|
 |tbd|Socket Head Cap Screw M3 x 12mm|
 
 # III. Linear Rails (XY)
@@ -85,14 +84,25 @@ Pick *ONE* depending on the style you want.. open or enclosed?
 
 ### Open frame Misumi parts
 
+|Qty|Description|
+|-----|-----|
+|16|Socket Head Cap Screw M8 x 40mm|
+
 |Qty|Part #|Description|
 |-----|-----|-----|
-|4|HFS6-3030-750-*TBD*|Clear anodize 3030 Normal Rigidity Type 750mm *TBD*|
+|2|HFS6-3030-750-TPW-Z8-XA131-XB735-YA113-YB705|Clear anodize 3030 Normal Rigidity Type 750mm 131mm/735mm 113mm/705mm drill holes tap both ends|
+|2|HFS6-3030-750-TPW-Z8-XA113-XB705-YA131-YB735|Clear anodize 3030 Normal Rigidity Type 750mm 113mm/705mm 131mm/735mm drill holes tap both ends|
 
 ### Enclosure Misumi parts
 
+|Qty|Description|
+|-----|-----|
+|16|Socket Head Cap Screw M8 x 70mm|
+
 |Qty|Part #|Description|
 |-----|-----|-----|
-|4|HFS6-6060-750-*TBD*|Clear anodize 6060 Normal Rigidity Type 750mm *TBD*|
+|2|HFS6-6060-750-TPW-Z8-XA131-XB735-YA113-YB705|Clear anodize 6060 Normal Rigidity Type 750mm 131mm/735mm 113mm/705mm drill holes tap both ends|
+|2|HFS6-6060-750-TPW-Z8-XA113-XB705-YA131-YB735|Clear anodize 6060 Normal Rigidity Type 750mm 113mm/705mm 131mm/735mm drill holes tap both ends|
+
 
 
