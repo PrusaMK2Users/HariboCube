@@ -51,6 +51,7 @@ If you have questions about this build, feel free to submit a Github issue and w
 |-----|-----|-----|
 |4|TWE-04-15|Miniature adjustable linear rail carriage|
 |4|TS-04-15 456mm|Miniature linear rail 456mm|
+|4|JFM-0812-05|iglide® J, sleeve bearing with flange|
 
 # IV. Moving Platform (Z)
 
