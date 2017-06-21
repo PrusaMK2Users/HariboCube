@@ -26,14 +26,18 @@ HariboCube is the next logical step towards an affordable fully enclosed printer
 
 ## Contributions
 
-If you have any contributions you want to make to this project, please submit a PR (pull request) and we will review and merge into the project
+Contributions / changes / updates / fixes are welcomed.  Please submit a PR (pull request) and/or Issue.
 
 ## License
 
-The content of this project and all related documentation found in this repository is licensed under the [Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+The content of this project and all related documentation found in this repository is licensed under the [Attribution-NonCommercial-NoDerivatives 4.0 Licence](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 Share — copy and redistribute the material in any medium or format
 
 Attribution — You **must** give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 NonCommercial — You may **not** use the material for commercial purposes.
+
+NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
