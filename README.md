@@ -4,7 +4,9 @@
 
 We are **not** affiliated with any Facebook group, any one claiming affiliation is doing so on their own and it's not part of the effort
 
-The **ONLY** official source is this github and the **ONLY** official channel to reach us is listed below (mattermost).  
+The **ONLY** official source is this github and the **ONLY** official channel to reach us is listed below (mattermost).
+
+Please notify us if you see unauthorized use of materials presented here
 
 ## Contact us
 
