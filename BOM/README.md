@@ -94,8 +94,8 @@ Pick *ONE* depending on the style you want.. open or enclosed?
 
 |Qty|Part #|Description|
 |-----|-----|-----|
-|2|HFS6-3030-750-TPW-Z8-XA15-XB619-YA45-YB637|Clear anodize 3030 Normal Rigidity Type 750mm 15mm/619mm 45mm/637mm drill holes tap both ends|
-|2|HFS6-3030-750-TPW-Z8-XA45-XB637-YA15-YB619|Clear anodize 3030 Normal Rigidity Type 750mm 45mm/637mm 15mm/619mm drill holes tap both ends|
+|2|GFS6-3030-750-TPW-Z8-XA15-XB619-YA45-YB637|Clear anodize 3030 High Rigidity Type 750mm 15mm/619mm 45mm/637mm drill holes tap both ends|
+|2|GFS6-3030-750-TPW-Z8-XA45-XB637-YA15-YB619|Clear anodize 3030 High Rigidity Type 750mm 45mm/637mm 15mm/619mm drill holes tap both ends|
 
 ### Enclosure Misumi parts
 
