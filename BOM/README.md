@@ -75,7 +75,8 @@ MIC-6 plate is picked because of thickness tolerances is within +/-.005" (0.127m
 
 |Qty|Part #|Description|
 |-----|-----|-----|
-|4|HFS6-3030-500-TPW|Clear anodize 3030 Normal Rigidity Type 500mm tap both ends|
+|2|HFS6-3030-500-TPW|Clear anodize 3030 Normal Rigidity Type 500mm tap both ends|
+|2|HFS6-606030-500-TPW|Clear anodize 606030 Normal Rigidity Type 500mm tap both ends|
 |4|HFSP6-3030-500-TPW|Clear anodize 3030 Normal Rigidity Type with Milled Surface 500mm tap both ends|
 |*tbd*|HNTTSN6-3|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M3 (100 pack = PACK-HNTTSN6-3)|
 |*tbd*|HNTTSN6-6|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M6 (100 pack = PACK-HNTTSN6-6)|
@@ -109,3 +110,6 @@ Pick *ONE* depending on the style you want.. open or enclosed?
 |-----|-----|-----|
 |2|HFSG6-6060-900-TPW-Z8-XA15-XB619-YA45-YB637|Clear anodize 6060 High Rigidity Type 900mm 15mm/619mm 45mm/637mm drill holes tap both ends|
 |2|HFSG6-6060-900-TPW-Z8-XA45-XB637-YA15-YB619|Clear anodize 6060 High Rigidity Type 900mm 45mm/637mm 15mm/619mm drill holes tap both ends|
+|2|HFS6-3060-560-TPW-Z8-XA280-YA15-YB545|Clear anodize 3060 Normal Rigidity Type 500mm 280mm 15mm/545mm drill holes tape both ends|
+|2|HFS6-3030-614-Z8-XA12-XB602|Clear anodize 3030 Normal Rigidity Type 614mm 12mm/602mm drill holes|
+|1|HFS6-3060-500-TPW|Clear anodize 3060 Normal Rigidity Type 500mm tap both ends|
