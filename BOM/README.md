@@ -107,7 +107,5 @@ Pick *ONE* depending on the style you want.. open or enclosed?
 
 |Qty|Part #|Description|
 |-----|-----|-----|
-|2|HFSG6-6060-1000-TPW-Z8-XA15-XB619-YA45-YB637|Clear anodize 6060 High Rigidity Type 1000mm 15mm/619mm 45mm/637mm drill holes tap both ends|
-|2|HFSG6-6060-1000-TPW-Z8-XA45-XB637-YA15-YB619|Clear anodize 6060 High Rigidity Type 1000mm 45mm/637mm 15mm/619mm drill holes tap both ends|
-
-
+|2|HFSG6-6060-1000-TPW-Z8-XA15-XB619-XC955-YA45-YB637-YC985|Clear anodize 6060 High Rigidity Type 1000mm 15mm/619mm/955mm 45mm/637mm/985mm drill holes tap both ends|
+|2|HFSG6-6060-1000-TPW-Z8-XA45-XB637-XC985-YA15-YB619-YC955|Clear anodize 6060 High Rigidity Type 1000mm 45mm/637mm/985mm 15mm/619mm/955mm drill holes tap both ends|
