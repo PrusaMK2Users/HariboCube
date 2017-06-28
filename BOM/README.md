@@ -69,6 +69,8 @@ MIC-6 plate is picked because of thickness tolerances is within +/-.005" (0.127m
 
 #### T-Sun will be able to supply these as well if you are having trouble ordering due to country regulations
 
+#### You can save a few bucks by tapping the holes yourself, drop the TPW from the part #
+
 ## Common Misumi parts
 
 |Qty|Part #|Description|
@@ -78,6 +80,7 @@ MIC-6 plate is picked because of thickness tolerances is within +/-.005" (0.127m
 |*tbd*|HNTTSN6-3|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M3 (100 pack = PACK-HNTTSN6-3)|
 |*tbd*|HNTTSN6-6|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M6 (100 pack = PACK-HNTTSN6-6)|
 |4|C-30-RK-3617|Rubber Feet|
+|*tbd*|HBLSP6|6 Series, Thin Stainless Steel Brackets with Tab|
 
 ## Open frame or Enclosed
 
@@ -91,10 +94,12 @@ Pick *ONE* depending on the style you want.. open or enclosed?
 
 |Qty|Part #|Description|
 |-----|-----|-----|
-|2|HFS6-3030-750-TPW-Z8-XA131-XB735-YA113-YB705|Clear anodize 3030 Normal Rigidity Type 750mm 131mm/735mm 113mm/705mm drill holes tap both ends|
-|2|HFS6-3030-750-TPW-Z8-XA113-XB705-YA131-YB735|Clear anodize 3030 Normal Rigidity Type 750mm 113mm/705mm 131mm/735mm drill holes tap both ends|
+|2|HFS6-3030-750-TPW-Z8-XA15-XB619-YA45-YB637|Clear anodize 3030 Normal Rigidity Type 750mm 15mm/619mm 45mm/637mm drill holes tap both ends|
+|2|HFS6-3030-750-TPW-Z8-XA45-XB637-YA15-YB619|Clear anodize 3030 Normal Rigidity Type 750mm 45mm/637mm 15mm/619mm drill holes tap both ends|
 
 ### Enclosure Misumi parts
+
+**work in progress.. please wait until i can finish the part modifications**
 
 |Qty|Description|
 |-----|-----|
@@ -102,8 +107,7 @@ Pick *ONE* depending on the style you want.. open or enclosed?
 
 |Qty|Part #|Description|
 |-----|-----|-----|
-|2|HFS6-6060-750-TPW-Z8-XA131-XB735-YA113-YB705|Clear anodize 6060 Normal Rigidity Type 750mm 131mm/735mm 113mm/705mm drill holes tap both ends|
-|2|HFS6-6060-750-TPW-Z8-XA113-XB705-YA131-YB735|Clear anodize 6060 Normal Rigidity Type 750mm 113mm/705mm 131mm/735mm drill holes tap both ends|
-
+|2|HFSG6-6060-1000-TPW-Z8-XA15-XB619-YA45-YB637|Clear anodize 6060 High Rigidity Type 1000mm 15mm/619mm 45mm/637mm drill holes tap both ends|
+|2|HFSG6-6060-1000-TPW-Z8-XA45-XB637-YA15-YB619|Clear anodize 6060 High Rigidity Type 1000mm 45mm/637mm 15mm/619mm drill holes tap both ends|
 
 
