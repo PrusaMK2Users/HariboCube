@@ -92,6 +92,7 @@ Pick *ONE* depending on the style you want.. open or enclosed?
 |Qty|Description|
 |-----|-----|
 |16|Socket Head Cap Screw M8 x 40mm|
+|*tbd*|Socket Head Cap Screw M6 x 10mm|
 
 |Qty|Part #|Description|
 |-----|-----|-----|
