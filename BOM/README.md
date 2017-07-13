@@ -78,8 +78,8 @@ MIC-6 plate is picked because of thickness tolerances is within +/-.005" (0.127m
 |2|HFS6-3030-500-TPW|Clear anodize 3030 Normal Rigidity Type 500mm tap both ends|
 |2|HFS6-606030-500-TPW|Clear anodize 606030 Normal Rigidity Type 500mm tap both ends|
 |4|HFSP6-3030-500-TPW|Clear anodize 3030 Normal Rigidity Type with Milled Surface 500mm tap both ends|
-|*tbd*|HNTTSN6-3|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M3 (100 pack = PACK-HNTTSN6-3)|
-|*tbd*|HNTTSN6-6|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M6 (100 pack = PACK-HNTTSN6-6)|
+|*tbd*|PACK-HNTTSN6-3|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M3 (100 pack = PACK-HNTTSN6-3)|
+|*tbd*|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts For HFS6 Series Aluminum Extrusions Thread Nominal M6 (100 pack = PACK-HNTTSN6-6)|
 |4|C-30-RK-3617|Rubber Feet|
 |*tbd*|HBLSP6|6 Series, Thin Stainless Steel Brackets with Tab|
 
